@@ -30,6 +30,17 @@ hr {
 .heading-text_2 {
     font-family: 'Ubuntu', sans-serif;
 }
+.heading-text_3 {
+    font-style: italic;
+    margin-top: 3%;
+}
+.musicBtn {
+    margin-top: 2%;
+    margin-right: 3%;
+}
+.musicBtn1 {
+    margin-top: 2%;
+}
 .img-title {
     width: 8%;
     transform: rotate(15deg);
@@ -137,6 +148,9 @@ hr {
         position: static;
         transform: rotate(0);
         width: 70%;
+    }
+    .heading-text_3 {
+        margin-top: 5%;
     }
     .container-ucapan {
         padding: 0% 12% 7%;
